@@ -5,7 +5,7 @@ This repository provides photographs and videos of a real-world free-space optic
 ## Contents
 
 * `images/`: photographs of the field experimental setup.
-* `videos/`: demonstration videos of the FSO experimental scenario.
+* `videos/`: The video records the fluctuation of received optical power during the field experiment.
 
 ## Usage
 
